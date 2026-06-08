@@ -18,5 +18,5 @@ Genius, billionaire, playboy, philanthropist and reverse engineer
 
 ### Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,linux,py,java,kotlin,ts,powershell,mysql,cs,cpp,assembly,haskell,php" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,linux,py,java,kotlin,ts,powershell,mysql,crystal,cs,cpp,asm,haskell,php" alt="My Skills" />
 </p>
