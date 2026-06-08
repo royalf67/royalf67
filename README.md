@@ -2,9 +2,6 @@
 
 Genius, billionaire, playboy, philanthropist and reverse engineer
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Froyalf67%2Froyalf67&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views"/>
-
-
 ### Languages and Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
